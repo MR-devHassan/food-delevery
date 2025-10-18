@@ -28,7 +28,7 @@ function Footer() {
             <h2>GET IN TOUCH</h2>
             <ul>
                 <li>+1-123-456-6789</li>
-                <li>Conatct@foody@gmail.com</li>
+                <li>Conatct@foody.com</li>
             </ul>
         </div>
       </div>
